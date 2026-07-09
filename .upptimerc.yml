@@ -19,7 +19,7 @@ status-website:
   introMessage: Real-time uptime of the Diagnosee production environment (web app, API, auth).
   navbar:
     - title: Status
-      href: /
+      href: /redbing-diagnosee-uptime
     - title: GitHub
       href: https://github.com/redbing-srl/redbing-diagnosee-uptime
 
