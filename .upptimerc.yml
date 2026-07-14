@@ -3,11 +3,11 @@ repo: redbing-diagnosee-uptime
 
 sites:
   - name: Diagnosee - Web App
-    url: https://app.diagnosee.net
+    url: https://app.diagnosee.com
   - name: Diagnosee - Auth
-    url: https://app.diagnosee.net/api/auth-health
+    url: https://app.diagnosee.com/api/auth-health
   - name: Diagnosee - API
-    url: https://app.diagnosee.net/api/trpc/health.db
+    url: https://app.diagnosee.com/api/trpc/health.db
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
