@@ -1,7 +1,7 @@
 url: https://app.diagnosee.com/api/trpc/health.db
 status: up
 code: 200
-responseTime: 181
-lastUpdated: 2026-07-22T23:20:01.369Z
+responseTime: 239
+lastUpdated: 2026-07-23T23:18:19.861Z
 startTime: 2026-07-08T23:24:52.359Z
 generator: Upptime <https://github.com/upptime/upptime>
